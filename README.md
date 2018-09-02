@@ -1,7 +1,14 @@
 <img src="https://raw.githubusercontent.com/ypyakymiv/LibRary/master/icon/mipmap-xxhdpi/ic_launcher.png" />
+<img src="https://drive.google.com/file/d/1cUNRs0Dz53i_VyFoIukfeHwp22mQuh5W/view?usp=sharing"/>
 Lib.Rary
 
-This app was designed to manage the issuance of books and to provide other information about a school library. Users of this app can be regular users or librarians. Regular users will have normal permissions with a search function that takes isbn, title, and author as parameters. Admin users will have access to account information and will be able to finalize or destroy checkout requests. To login as admin, username is admin and password is password. Overdue books will show red warning sign and user emails and phone numbers are stored in database to allow librarian/admin to email or call.
+Built for the 2017-2018 FBLA Mobile App Development competition.
+
+A vital tool for the real-world librarian, Lib.Rary creates and enjoyable book-borrowing
+experience. The powerful interface creates an elegant bond between the student and his or
+her dealings at the library. Whether its tracking down overdue books, finding new books, or
+sharing these bastions of knowledge with friends, we are the best solution for any library
+looking to get a tech upgrade.
 
 Prerequisites
 Will run on ios and android, and is available on Google Play Store.
@@ -11,12 +18,6 @@ React native 0.5*
 
 Authors
 Yuri Yakymiv
-Amin Mojarad
-Timothy James Gallagher
-
-Bugs
-Image cache prevents displaying on new fetch book because it is not refetched
-Suggestions become minimized with a big description
 
 Acknowledgments
 Big thanks to Notch for the original Minecraft game.
