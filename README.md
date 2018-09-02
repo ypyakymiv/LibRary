@@ -3,9 +3,11 @@
   Lib.Rary
 </h1>
 
-<img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/student_side.gif" style="display: inline; align: left;" width="300">
-<img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/admin_side.gif" style="display: inline; align: left;" width="300">
-<img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/sharing.gif" style="display: inline; align: right;" width="300" />
+<div style="display: inline; width: 100%; align: center;">
+  <img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/student_side.gif" style="display: inline;" width="30%">
+  <img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/sharing.gif" style="display: inline;" width="30%" />
+  <img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/admin_side.gif" style="display: inline;" width="30%">
+</div>
 
 Built for the 2017-2018 FBLA Mobile App Development competition.
 
