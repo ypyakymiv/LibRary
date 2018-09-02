@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ypyakymiv/LibRary/master/icon/mipmap-xxhdpi/ic_launcher.png" />
-<img src="https://drive.google.com/file/d/1cUNRs0Dz53i_VyFoIukfeHwp22mQuh5W/view?usp=sharing"/>
+<img src="https://github.com/ypyakymiv/LibRary/blob/master/RM_res/student_side.gif"/>
 Lib.Rary
 
 Built for the 2017-2018 FBLA Mobile App Development competition.
